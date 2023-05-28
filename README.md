@@ -1,2 +1,2 @@
 # FoodApp
-Food App use java language progamming and build with MVVM model
+Food App application using java language programming and built with MVVM model
